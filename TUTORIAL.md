@@ -1,15 +1,10 @@
-# Step-by-Step Tutorial
+# Portfolio Customization Notes
 
-## Step 1 — Customize Hero Section
-- Replace placeholder name
-- Add your role
+This portfolio now contains Pouras Kalvitkar's résumé-based content and can be edited directly in `index.html` and `styles.css`.
 
-## Step 2 — Update About Section
-- Write about yourself
+## Common updates
 
-## Step 3 — Add Projects
-- Add 3 project cards
+- Replace or add verified project links in the project cards.
+- Update the experience and education sections as new milestones are reached.
+- Add a personal image only when an image is ready to publish; the current initials-based visual avoids an empty placeholder.
 
-## Step 4 — Build Contact Form
-
-## Step 5 — Deploy to Vercel
